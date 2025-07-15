@@ -9,7 +9,10 @@ This report summarizes key insights extracted from data exported from the SQL Se
 ### 🧾 Data Source
 The primary data sources used here is the KMS Sql Case Study.csv and this was given as aproject data provided by the organizer of the Data skill up Africa, which is the **INCUBATOR HUB** and this was provided through the canvas learning platform.
 
-### Tools used
-- Sql server ( for querrying and and anaysis )
-- Ms Excel for visualization
+## 🛠️ Tools Used
+
+- **SQL** [Download here] {https://www.microsoft.com/en-us/sql-server/sql-server-downloads}
+   (Structured Query Language) – Used for all data extraction, transformation, and analysis steps.
+
+
 
