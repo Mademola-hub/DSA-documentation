@@ -11,7 +11,7 @@ The primary data sources used here is the KMS Sql Case Study.csv and this was gi
 
 ## 🛠️ Tools Used
 
-- **SQL** [Download here] {https://www.microsoft.com/en-us/sql-server/sql-server-downloads}
+- **SQL** [Download here]{https://www.microsoft.com/en-us/sql-server/sql-server-downloads}
    (Structured Query Language) – Used for all data extraction, transformation, and analysis steps.
 
 
