@@ -241,24 +241,81 @@ order by Order_Priority, [ Average Shipping Cost ] desc;
 
 There’s a clear disconnect between how KMS describes its shipping methods and what the data actually shows.
 
----
 
 ### 📦 What KMS Says:
 - **Delivery Truck** = Cheapest, but slowest  
 - **Express Air** = Fastest, but most expensive
 
----
 
 ### 🔍 What the Data Shows:
 - **Delivery Truck** is actually the **most expensive option**, with average costs ranging from **$43 to $47** across all order priorities.
 - **Express Air**, expected to be costliest, is consistently **much cheaper**, averaging only **$6 to $8**.
 - **Regular Air** is often the **cheapest option overall**, staying around **$7 to $8**.
 
----
 
 ### 💡 Implications:
 - KMS may be **wasting money** by using costly Delivery Trucks for regular or critical shipments.
-- There may be **data issues**, **hidden logistics costs**, or poor **shippin**
+- There may be **data issues**, **hidden logistics costs**, or poor **shipping**
+
+## 🔎 Detailed Business Insights
+
+### 💼 Revenue Growth Opportunity
+- The **bottom 10 customers** (e.g., *Jeremy Farry*, *Natalie DeCherney*) present an immediate opportunity for growth through targeted **retention and engagement strategies**.
+
+
+### 👥 Segment Performance
+- **Corporate** and **Small Business** segments contain high-value customers like:
+  - *Adam Hart* – 27 orders
+  - *Dennis Kane* – over $75K in sales
+- **Consumer segment** can also be profitable:
+  - *Emily Phan* – over $34K in profit
+
+### 📦 Product Category Strengths & Weaknesses
+- **Top Categories**:  
+  - *Technology* and *Furniture* drive significant revenue
+- **Lagging Category**:
+  - *Office Supplies* underperform — may need a new marketing or pricing approach
+- **High-Profit Products**:
+  - *Polycom ViewStation*, *HP Laserjet Copier*
+- **Unprofitable Items**:
+  - Some products are sold **at a loss**, which signals an urgent need to review:
+    - Pricing strategy  
+    - Cost of goods  
+    - Possible discontinuation
+
+### 🌍 Regional Performance
+- **Strongest Regions**:
+  - *West* region leads in overall sales
+  - *Ontario* performs strongly, especially in *Appliances*
+  - *Yukon* performs well among smaller territories
+- **Weaker Regions**:
+  - *Nunavut* and *Prairie* lag in performance — may indicate untapped potential or low market size
+
+### 🚚 Shipping Cost Impact
+- **Delivery Truck** is the **most expensive mode**, heavily impacting profit — especially on lower-priced products
+- **Regular Air** also has high total cost
+- **Express Air** has **lower total cost**, possibly due to better efficiency or limited use
+- 📌 **Actionable Recommendation**:
+  - Negotiate better shipping rates
+  - Adjust pricing models to cover higher shipping costs
+  - Encourage more cost-effective shipping choices at checkout
+
+### 📌 Summary
+KMS demonstrates clear **strengths** in:
+- Product categories (*Technology, Furniture*)
+- High-value customers in all segments
+- Top-performing regions like *West* and *Ontario*
+
+But must address **gaps** in:
+- Low-engagement customers
+- Underperforming products and regions
+- Expensive logistics (especially Delivery Truck)
+
+By optimizing these areas, **Kultra Mega Stores** can boost profitability, customer retention, and overall operational efficiency.
+
+## 📦 Deliverables
+- `KMS SQL Case Study.csv`[Download here ]()
+
 
 
 
