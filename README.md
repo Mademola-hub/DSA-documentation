@@ -315,6 +315,12 @@ By optimizing these areas, **Kultra Mega Stores** can boost profitability, custo
 
 ## 📦 Deliverables
 - `KMS SQL Case Study.csv`[Download here ]()
+-  SQL query scripts [Download here ]()
+
+## 🙋 About the Analyst
+**Matthew Ademola Oluwatosin**  
+*Aspiring Data Analyst with little hands-on experience in SQL, Excel, Power BI.*
+    
 
 
 
