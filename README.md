@@ -314,12 +314,14 @@ But must address **gaps** in:
 By optimizing these areas, **Kultra Mega Stores** can boost profitability, customer retention, and overall operational efficiency.
 
 ## 📦 Deliverables
-- `KMS SQL Case Study.csv`[Download here ]()
--  SQL query scripts [Download here ]()
+- `KMS SQL Case Study.csv`
+-  SQL query scripts
+
+[ Download here ](https://drive.google.com/drive/folders/17feFYJDSVt9AKOJYwVxN40CvtZrHEeh5)
 
 ## 🙋 About the Analyst
 **Matthew Ademola Oluwatosin**  
-*Aspiring Data Analyst with little hands-on experience in SQL, Excel, Power BI.*
+**Aspiring Data Analyst**
     
 
 
