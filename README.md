@@ -1,4 +1,29 @@
-# :brain: DSA-documentation
+## 📄 Table of Contents
+
+- [🧠 DSA-documentation](#-dsa-documentation)
+- [📁 Project Overview](#-project-overview)
+- [🧾 Data Source](#-data-source)
+- [🛠️ Tools Used](#️-tools-used)
+- [🔍 Methodology](#-methodology)
+- [🖼️ Project Analysis, Questions, Queries, and Visuals](#️-project-analysis-questions-queries-and-visuals)
+  - [1. Highest Selling Product Category](#1-which-product-category-had-the-highest-sales)
+  - [2. Top and Bottom 3 Sales Regions](#2-what-are-the-top-3-and-bottom-3-regions-in-terms-of-sales)
+  - [3. Appliance Sales in Ontario](#3-what-were-the-total-sales-of-appliances-in-ontario)
+  - [4. Revenue Advice for Bottom 10 Customers](#4-advise-the-management-of-kms-on-what-to-do-to-increase-the-revenue-from-the-bottom-10-customers)
+  - [5. Highest Shipping Cost by Method](#5-kms-incurred-the-most-shipping-cost-using-which-shipping-method)
+  - [6. Most Valuable Customers](#6-who-are-the-most-valuable-customers-and-what-products-or-services-do-they-typically-purchase)
+  - [7. Highest Sales - Small Business Customer](#7-which-small-business-customer-had-the-highest-sales)
+  - [8. Most Orders by Corporate Customers (2009–2012)](#8-which-corporate-customer-placed-the-most-number-of-orders-in-2009--2012)
+  - [9. Most Profitable Consumer Customer](#9-which-consumer-customer-was-the-most-profitable-one)
+  - [10. Customers Who Returned Items](#10-which-customer-returned-items-and-what-segment-do-they-belong-to)
+  - [11. Shipping Cost vs Order Priority](#11-if-the-delivery-truck-is-the-most-economical-but-the-slowest-shipping-method)
+- [🚚 Shipping Cost Analysis](#-shipping-cost-analysis)
+- [🔎 Detailed Business Insights](#-detailed-business-insights)
+- [📌 Summary](#-summary)
+- [📦 Deliverables](#-deliverables)
+- [🙋 About the Analyst](#-about-the-analyst)
+  
+# :brain: DSA-documentation SQL analysis 
 This is my first project when I started learning data Analysis, with the incubator hub 
 
 ## Project Topic :  🏬 Kultra Mega Stores Inventory Analysis
