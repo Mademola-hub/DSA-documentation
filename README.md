@@ -31,6 +31,7 @@ The raw data which was stored in a csv format was imported into the SQL server t
   --- SQL project_analysis
   --- create databse
   Create database project_analysis;
+  ```
 
 --- Table manipulation , cleaning and alteration
 
@@ -53,6 +54,17 @@ alter column shipping_cost decimal ( 10 , 2 );
 alter table [KMS Sql Case Study]
 alter column product_base_margin decimal ( 10 , 2 );
 ```
+## 🖼️ Project Analysis, questions, query  and  Visuals
+
+### 1. Which product category had the highest sales
+
+```sql
+select product_category, sum ( sales ) as [Total number of products]
+from [KMS Sql Case Study]
+group by Product_Category 
+order by [Total number of products] desc;
+```
+
 
 
 
