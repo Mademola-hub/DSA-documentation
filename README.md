@@ -347,6 +347,8 @@ By optimizing these areas, **Kultra Mega Stores** can boost profitability, custo
 ## 🙋 About the Analyst
 **Matthew Ademola Oluwatosin**  
 **Aspiring Data Analyst**
+
+[Back to Top ](https://github.com/Mademola-hub/DSA-documentation#-table-of-contents)
     
 
 
