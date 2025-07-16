@@ -14,5 +14,53 @@ The primary data sources used here is the KMS Sql Case Study.csv and this was gi
 - **SQL** [Download here](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
    (Structured Query Language) – Used for all data extraction, transformation, and analysis steps.
 
+# 🔍 Methodology
+
+## 1. Database Setup
+- **Database Creation**
+  The projects started by creating a database called or named project_analysis.
+  
+- **Data inportaton and extraction** 
+The raw data which was stored in a csv format was imported into the SQL server to create a table and to allow for visualization.
+
+- **Data Cleaning**  
+  Unnecessary columns were removed, and missing values were checked. Categorical values 
+  were standardized.
+
+  ```sql
+  --- SQL project_analysis
+  --- create databse
+  Create database project_analysis;
+
+--- Table manipulation , cleaning and alteration
+
+```sql
+alter table [KMS Sql Case Study]
+alter column sales decimal ( 10, 2 );
+
+alter table [KMS Sql Case Study]
+alter column Discount decimal ( 10 , 2 );
+
+alter table [KMS Sql Case Study]
+alter column unit_price decimal ( 10 , 2 );
+
+alter table [KMS Sql Case Study]
+alter column profit decimal ( 10 , 2 );
+
+alter table [KMS Sql Case Study]
+alter column shipping_cost decimal ( 10 , 2 );
+
+alter table [KMS Sql Case Study]
+alter column product_base_margin decimal ( 10 , 2 );
+```
+
+
+
+  
+
+  
+
+
+
 
 
